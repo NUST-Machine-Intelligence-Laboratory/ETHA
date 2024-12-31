@@ -1,4 +1,4 @@
-# Text Injection Matters: A Hierarchical Attention Framework for Weakly Supervised Few-Shot Semantic Segmentation
+# Multimodal Hierarchical Attention Framework for Weakly Supervised Few-Shot Segmentation in Consumer Electronics Applications
 
 ## Reqirements
 
